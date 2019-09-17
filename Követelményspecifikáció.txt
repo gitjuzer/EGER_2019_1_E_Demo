@@ -2,6 +2,9 @@ Demó projekt
 Követelményspecifikáció
 
 1. Bevezetés
+Az iskolás korú gyerekek szívesen foglalkoznak az informatikai eszközökkel, és a játékokkal.
+Ezt kihasználva szeretnénk egy bármilyen témakörben létrehozott szójegyzékkel működő akasztófa játék megalkotását.
+....
 
 
 2. Jelenlegi helyzet

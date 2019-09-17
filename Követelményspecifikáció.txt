@@ -5,7 +5,10 @@ Követelményspecifikáció
 
 
 2. Jelenlegi helyzet
-
+A 8-12 éves korú gyerekek terhelése az iskolában elég nagy.
+Otthon már csak a nagyon szorgalmasak tanulnak szívesen.
+Emellett a papír alapú tanulásnak vannak nehézségei, pl. nehéz a tudás visszaellenőrzése, ha egyedül tanul.
+....
 
 3. Vágyálom rendszer
 
